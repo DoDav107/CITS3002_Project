@@ -1,6 +1,4 @@
 # Mini Internet Protocol Stack Simulator
-Student 1: Soham Parikh ([24472235])
-Student 2: David Do ([24224251])
 
 This project implements a logical Python simulation of data delivery from
 Host A to Host B through Router R1. It demonstrates the required Layer 2,
